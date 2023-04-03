@@ -15,8 +15,6 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I'm a Talent Sourcer based out of Rotterdam 🇳🇱
 
@@ -54,7 +52,6 @@ Passionate about growing teams and dreams. 🤩
 
 <br/>  
 
-
 ## Looking for skilled peeps in  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
@@ -68,7 +65,6 @@ Passionate about growing teams and dreams. 🤩
 </div>  
 
 <br/>  
-
 
 ## Stats & Music  
 <table><tr><td valign="top" width="60%">
